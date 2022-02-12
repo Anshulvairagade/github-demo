@@ -6,6 +6,7 @@ return x+y of bug123
 sub implementation
 sub 
 return x-y return x-y
+return x+y of bug456
 
 divide implementation
 divide 
