@@ -1,0 +1,18 @@
+add implementation
+add
+return x+y
+
+sub implementation
+sub 
+return x-y
+
+divide implementation
+divide 
+return x/y
+
+mul implementation
+mul
+implemented in new way
+
+half changes to check what is stash
+
