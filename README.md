@@ -1,2 +1,1 @@
-# github-demo
-This is just a practice repo
+This is readme.md file
