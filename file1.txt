@@ -12,5 +12,6 @@ divide
 return x/y return x/y
 
 mul implementation
-mul
+mul 
+return x*y
 implemented in new way implemented in new way
